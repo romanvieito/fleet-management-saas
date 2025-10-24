@@ -11,10 +11,10 @@ export default function Pricing() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="text-center">
             <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl">
-              Simple, Transparent Pricing
+              AI-Powered Business Tools
             </h1>
             <p className="mt-4 text-xl text-gray-600">
-              Pay only for what you use. No hidden fees, no surprises.
+              Automate your business operations with AI. Boost efficiency, reduce costs, and scale your business.
             </p>
           </div>
         </div>
@@ -27,7 +27,7 @@ export default function Pricing() {
             {/* Pricing Card */}
             <div className="text-center">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">
-                Per Vehicle Pricing
+                All-in-One AI Platform
               </h2>
               
               <div className="mb-8">
@@ -44,43 +44,43 @@ export default function Pricing() {
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Real-time GPS tracking</span>
+                  <span className="text-gray-700">AI Pricing Optimizer</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Automated maintenance alerts</span>
+                  <span className="text-gray-700">Automated Ticket Agent</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Driver behavior monitoring</span>
+                  <span className="text-gray-700">Website & Social Generator</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Fuel consumption tracking</span>
+                  <span className="text-gray-700">AI Chat Support Agent</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Route optimization</span>
+                  <span className="text-gray-700">Advanced Analytics Dashboard</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">24/7 customer support</span>
+                  <span className="text-gray-700">24/7 Priority Support</span>
                 </div>
                 <div className="flex items-center">
                   <svg className="h-5 w-5 text-green-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  <span className="text-gray-700">Detailed analytics & reports</span>
+                  <span className="text-gray-700">Custom AI Model Training</span>
                 </div>
               </div>
 
@@ -99,7 +99,7 @@ export default function Pricing() {
         {/* Additional Info */}
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-bold text-gray-900 mb-8">
-            Why Choose Cleet?
+            Why Choose Our AI Platform?
           </h3>
           
           <div className="grid md:grid-cols-3 gap-8">
@@ -109,8 +109,8 @@ export default function Pricing() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
-              <h4 className="text-lg font-semibold text-gray-900 mb-2">No Setup Fees</h4>
-              <p className="text-gray-600">Get started immediately with no upfront costs or installation fees.</p>
+              <h4 className="text-lg font-semibold text-gray-900 mb-2">Instant Setup</h4>
+              <p className="text-gray-600">Get started in minutes with our plug-and-play AI tools. No technical expertise required.</p>
             </div>
             
             <div className="bg-white rounded-lg p-6 shadow-sm border border-gray-200">
@@ -119,8 +119,8 @@ export default function Pricing() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
-              <h4 className="text-lg font-semibold text-gray-900 mb-2">Scale as You Grow</h4>
-              <p className="text-gray-600">Add or remove vehicles anytime. Only pay for what you use.</p>
+              <h4 className="text-lg font-semibold text-gray-900 mb-2">Proven ROI</h4>
+              <p className="text-gray-600">Our customers see 40% cost reduction and 3x efficiency gains within the first month.</p>
             </div>
             
             <div className="bg-white rounded-lg p-6 shadow-sm border border-gray-200">
@@ -130,7 +130,7 @@ export default function Pricing() {
                 </svg>
               </div>
               <h4 className="text-lg font-semibold text-gray-900 mb-2">Enterprise Security</h4>
-              <p className="text-gray-600">Bank-level encryption and security to protect your fleet data.</p>
+              <p className="text-gray-600">Bank-level encryption and SOC 2 compliance to protect your business data.</p>
             </div>
           </div>
         </div>
@@ -144,10 +144,10 @@ export default function Pricing() {
           <div className="max-w-3xl mx-auto space-y-6">
             <div className="bg-white rounded-lg p-6 shadow-sm border border-gray-200">
               <h4 className="text-lg font-semibold text-gray-900 mb-2">
-                Can I change my plan anytime?
+                How quickly can I see results?
               </h4>
               <p className="text-gray-600">
-                Yes! You can add or remove vehicles from your account at any time. Changes take effect on your next billing cycle.
+                Most customers see immediate improvements within 24-48 hours. Full optimization typically takes 2-4 weeks as our AI learns your business patterns.
               </p>
             </div>
             
@@ -156,16 +156,16 @@ export default function Pricing() {
                 What happens during the free trial?
               </h4>
               <p className="text-gray-600">
-                You get full access to all features for 14 days. No credit card required to start your trial.
+                You get full access to all AI tools for 14 days. No credit card required to start your trial. Experience the full power of our platform.
               </p>
             </div>
             
             <div className="bg-white rounded-lg p-6 shadow-sm border border-gray-200">
               <h4 className="text-lg font-semibold text-gray-900 mb-2">
-                Is there a minimum contract length?
+                Do I need technical expertise to use the platform?
               </h4>
               <p className="text-gray-600">
-                No minimum contract required. You can cancel anytime with 30 days notice.
+                Not at all! Our AI tools are designed for business users. Simple setup wizards guide you through everything, and our support team is always available.
               </p>
             </div>
           </div>
