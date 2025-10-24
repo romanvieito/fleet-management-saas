@@ -22,7 +22,7 @@ export default function Hero() {
           </div>
           
           <div className="mt-12 text-sm text-gray-500">
-            <p>✓ Boost your business with AI • ✓ Reduce costs • ✓ Cancel anytime</p>
+            <p>✓ Boost your business with AI. ✓ Reduce costs. ✓ Cancel anytime.</p>
           </div>
         </div>
       </div>

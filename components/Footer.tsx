@@ -11,8 +11,8 @@ export default function Footer() {
           </div>
           
           <div className="flex items-center space-x-8 text-sm text-gray-500">
-            <a href="#" className="hover:text-gray-900 transition-colors">Privacy</a>
-            <a href="#" className="hover:text-gray-900 transition-colors">Terms</a>
+            <a href="/privacy" className="hover:text-gray-900 transition-colors">Privacy</a>
+            <a href="/terms" className="hover:text-gray-900 transition-colors">Terms</a>
             <span className="text-gray-300">•</span>
             <span>© 2025 Cleet</span>
           </div>
