@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">FleetOps</h3>
+            <h3 className="text-2xl font-bold mb-4">Cleet</h3>
             <p className="text-gray-300 mb-6 max-w-md">
               The complete fleet management solution for modern businesses. 
               Optimize operations, reduce costs, and improve efficiency.
@@ -55,7 +55,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 FleetOps. All rights reserved.
+              © 2024 Cleet. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</a>

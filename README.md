@@ -1,4 +1,4 @@
-# FleetOps - Fleet Management SaaS
+# Cleet - Fleet Management SaaS
 
 A modern, responsive landing page for a fleet management SaaS platform built with Next.js 16, React 19, and Tailwind CSS.
 

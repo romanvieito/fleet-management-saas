@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FleetOps - Smart Fleet Management Solutions",
-  description: "Streamline your fleet operations with real-time vehicle tracking, automated maintenance scheduling, driver management, and fuel monitoring.",
+  title: "Cleet - Smart Fleet Management Solutions",
+  description: "Automate your fleet operations with real-time vehicle tracking, automated maintenance scheduling, driver management, and fuel monitoring.",
 };
 
 export default function RootLayout({
