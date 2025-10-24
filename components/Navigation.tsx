@@ -11,9 +11,9 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-gray-900">
+            <a href="/" className="text-2xl font-bold text-gray-900 hover:text-blue-600 transition-colors">
               Cleet
-            </h1>
+            </a>
           </div>
 
           {/* Desktop Navigation */}
@@ -22,10 +22,10 @@ export default function Navigation() {
               <a href="#features" className="text-gray-600 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors">
                 Features
               </a>
-              <a href="#pricing" className="text-gray-600 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors">
+              <a href="/pricing" className="text-gray-600 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors">
                 Pricing
               </a>
-              <a href="#about" className="text-gray-600 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors">
+              <a href="/about" className="text-gray-600 hover:text-gray-900 px-3 py-2 text-sm font-medium transition-colors">
                 About
               </a>
             </div>
@@ -58,10 +58,10 @@ export default function Navigation() {
               <a href="#features" className="text-gray-600 hover:text-gray-900 block px-3 py-2 text-base font-medium">
                 Features
               </a>
-              <a href="#pricing" className="text-gray-600 hover:text-gray-900 block px-3 py-2 text-base font-medium">
+              <a href="/pricing" className="text-gray-600 hover:text-gray-900 block px-3 py-2 text-base font-medium">
                 Pricing
               </a>
-              <a href="#about" className="text-gray-600 hover:text-gray-900 block px-3 py-2 text-base font-medium">
+              <a href="/about" className="text-gray-600 hover:text-gray-900 block px-3 py-2 text-base font-medium">
                 About
               </a>
               <button className="bg-blue-600 hover:bg-blue-700 text-white w-full px-4 py-2 rounded-md text-base font-medium mt-4">
