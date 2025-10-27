@@ -387,7 +387,7 @@ export default function Terms() {
             <h2 className="text-2xl font-bold text-gray-900 mb-6">21. Governing Law and Disputes</h2>
             
             <p className="text-gray-700 mb-4">
-              This Agreement is governed by the laws of California. Disputes will be resolved by binding arbitration, not in court, except for certain intellectual property disputes. There is a class action waiver.
+              This Agreement is governed by the laws of Florida. Disputes will be resolved by binding arbitration, not in court, except for certain intellectual property disputes. There is a class action waiver.
             </p>
           </section>
 
